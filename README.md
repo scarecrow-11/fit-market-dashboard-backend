@@ -47,7 +47,7 @@ This is a guide to run the application in development mode. It's recommended to 
 	```
 - Run the following command to spin up the containers
 	```
-	$ sudo docker compose up
+	$ docker compose up
 	```
 ## Usage
 - Access the **PostgreSQL** database on **[http://localhost:5432](http://localhost:5432)**
