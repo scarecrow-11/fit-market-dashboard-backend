@@ -5,7 +5,7 @@ This is a guide to run the application in development mode. It's recommended to 
 - Install **Docker Engine** ([Installation Guide](https://docs.docker.com/engine/install)) and **Docker Compose** ([Installation Guide](https://docs.docker.com/compose/install)) on your machine
 - Install **Git** ([Installation Guide](https://git-scm.com/downloads))
 ## Getting Started
-- Clone the repository from [here](https://git-scm.com/downloads). You can run the following command
+- Clone the repository from [here](https://github.com/scarecrow-11/fit-market-dashboard-backend). You can run the following command
 	```
 	$ git clone https://github.com/scarecrow-11/fit-market-dashboard-backend.git
 	```
